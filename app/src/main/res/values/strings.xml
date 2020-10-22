@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">IttadiNavigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Facebook</string>
+
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="sharing_text" formatted="false">
+        Hi guys,Check out this new Health Calculator with tremendous features,It is amazing! https://play.google.com/store/apps/details?id=
+    </string>
+
+    <string name="send_to">Share</string>
+    <string name="nav_1">ইত্যাদি </string>
+    <string name="nav_2">নাটক  </string>
+    <string name="nav_3">অনুপ্রেরণা </string>
+    <string name="nav_title">হানিফ সংকেত </string>
+    <string name="ads_id">ca-app-pub-1681802534019018/7634989462</string>
+
+    <string-array name="ittadi_bangla">
+        <item>z1B5HJdhjLw</item>
+        <item>JIooJky8IcQ</item>
+        <item>MU9Wai0aIHs</item>
+        <item>vO_8L_8Rdzk</item>
+        <item>2JHXBxrTZPM</item>
+        <item>vCqNgPxUwZQ</item>
+        <item>221G9dgflBU</item>
+        <item>30sEqNuDHkg</item>
+        <item>hESgKuZ_EfQ</item>
+        <item>Zrj7-Hy960E</item>
+        <item>H3A3nGalZWA</item>
+        <item>5QJin7YLiow</item>
+        <item>ywQINvFkmck</item>
+        <item>NSJj3bjzvgc</item>
+        <item>M3E-niedxV8</item>
+        <item>gVQ5jiz8pdo</item>
+        <item>qb4aiRdgDF0</item>
+        <item>j0miXlvPJzc</item>
+        <item>aIEkHFOnnno</item>
+        <item>hme4BtAPEIA</item>
+        <item>ztmRHnRjwjc</item>
+        <item>VJBRR-NWJqA</item>
+        <item>kIYELUZvGnE</item>
+        <item>v4Z_RAxVosg</item>
+        <item>-sgdrmu__Js</item>
+        <item>kn3w-oLM92</item>
+        <item>8_VcWWI8-Q8</item>
+        <item>QyZAj5ldsOM</item>
+        <item>PBqQ49uj01I</item>
+        <item>W2WVtZlpIAI</item>
+        <item>hYXh7wExNww</item>
+        <item>EpZ8Xxx6UcI</item>
+        <item>HYHW_jhYpf8</item>
+        <item>Ib6dk4m6cSE</item>
+        <item>3wxSrw_w4Tw</item>
+        <item>M6nEpKk--LY</item>
+        <item>FSRIGEqwgjo</item>
+        <item>EOcMG58ipio</item>
+        <item>pRhhwJSXyA0</item>
+        <item>4XT1lzz9St4</item>
+        <item>hO-qVKnOST8</item>
+        <item>Go2c5ahzEUo</item>
+        <item>b5mzNJiJsCI</item>
+        <item>VxBgyM5yX4k</item>
+        <item>DJ5yr05faFE</item>
+        <item>ayVd42ZUDZw</item>
+        <item>5nV9bCfBXjs</item>
+        <item>ydLMridrqos</item>
+        <item>qhyYmszKU0Y</item>
+        <item>UY59gK0wKz4</item>
+        <item>ih_FHRcwnD4</item>
+        <item>amiCOnI5gX4</item>
+        <item>BpWMvr5usLQ</item>
+        <item>rya14UjuJCw</item>
+        <item>7MWrnrNRXaE</item>
+        <item>U3B1VrBR2VI</item>
+        <item>Gly3xCdJ7YE</item>
+        <item>l7oOXPvnsXA</item>
+
+        <item>GUnApsv2WJc</item>
+
+        <item>K_mWVZYmkmE</item>
+        <item>L45oMqXNlcs</item>
+        <item>px4yxLrJba8</item>
+        <item>k5ksE_fspI4</item>
+        <item>P6Vn3LO5iFM</item>
+
+        <item>p1td2XPWCgI</item>
+        <item>UE5UsaSSiP8</item>
+        <item>0erL4pZPNio</item>
+
+        <item>rvjhq4uwsE0</item>
+        <item>YKXAZJDp6lw</item>
+        <item>7S1u5x_6TWo</item>
+        <item>-xUPi8A0gKk</item>
+        <item>_yrIkrvi9Lo</item>
+    </string-array>
+
+    <string-array name="hanif_natok">
+        <item>sH47lJ7dKSg</item>
+        <item>vUEhu5_OZTg</item>
+        <item>q6hbeARK8Og</item>
+        <item>9eEljxyf6KY</item>
+        <item>utKvLm6qxPQ</item>
+        <item>IN8gpeVzTYA</item>
+        <item>EWhjNaNHixM</item>
+        <item>b__HDy0QoiE</item>
+        <item>fzCWG3R3v2o</item>
+        <item>_3tu4i-x9Nk</item>
+        <item>eTXpwcReqZ4</item>
+        <item>rYcqccozKTM</item>
+        <item>vsHw0CAvR5c</item>
+        <item>etKmG0S_uds</item>
+        <item>024BaqEbUok</item>
+        <item>DzmnCkcKZV0</item>
+        <item>ju6HmR28Cts</item>
+        <item>nWaSx-Rce6s</item>
+        <item>ILTPPvvE-9o</item>
+        <item>U_vAJgw3kVw</item>
+        <item>cJI-_zFnuj8</item>
+        <item>FQ2BnTzSKTg</item>
+        <item>3ANY7E3DlkY</item>
+        <item>6-O3FEj4goQ</item>
+        <item>bFp6ceCvriY</item>
+        <item>QHkQLKWxiww</item>
+        <item>KbgjW__ARcU</item>
+        <item>j_twPB1h5Sw</item>
+    </string-array>
+    <string-array name="inspire">
+        <item>5VDnMakNNX4</item>
+        <item>G7grlLmzcu4</item>
+        <item>erYoQd-t5hs</item>
+        <item>-MFeSNLMlu0</item>
+        <item>ZNsqE59VHTY</item>
+        <item>QjOiHC0cKCw</item>
+        <item>KNDToDa3ukA</item>
+        <item>He3dDKp-g6g</item>
+        <item>zsZM2riBm9E</item>
+
+        <item>ITgby_WCpKk</item>
+        <item>Z92yVrpngO0</item>
+        <item>AboTmOYo-Xo</item>
+        <item>BBYtCktzIxg</item>
+        <item>i_0A2bpQc7E</item>
+        <item>1fCZSMq1BCw</item>
+        <item>Ls3gRdc5SNU</item>
+        <item>kod9kQFEXMw</item>
+        <item>1fCZSMq1BCw</item>
+    </string-array>
+
+    <string name="admob_app_id">ca-app-pub-1681802534019018~9270139103</string>
+    <string name="admob_unit_id">ca-app-pub-1681802534019018/3420786980</string>
+
+
+</resources>
+
